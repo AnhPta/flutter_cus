@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:3:11-58
+		INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+		INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:6:2-66
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:6:19-63
+uses-feature#android.hardware.camera
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:9:5-93
+	android:required
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:9:68-91
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:10:2-87
+	android:required
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:10:61-84
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:10:16-60
+application
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:12:5-14:19
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:13:9-104
+	android:value
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:13:78-101
+	android:name
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml:13:20-77
+uses-sdk
+INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+		ADDED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml
+		INJECTED from /home/anhpta/Sites/flutter/.pub-cache/git/flutter_qr_mobile_vision-d9f46b4d7ef4cb7fa49f0bd6ea0e790635ea8b18/android/src/main/AndroidManifest.xml

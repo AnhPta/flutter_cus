@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/drawable/notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Nov 07 13:05:04 ICT 2019
+base.0=/home/anhpta/Sites/app_customer/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

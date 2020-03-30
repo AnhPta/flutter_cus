@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/layout-v21/notification_action.xml"
+    }
+]

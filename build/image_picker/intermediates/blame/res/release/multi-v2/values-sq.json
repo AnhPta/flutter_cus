@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/res/merged/release/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/anhpta/Sites/app_customer/build/image_picker/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml",
+            "map": [
+                {
+                    "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5369cf307593a697a73d57e0ec9baa8a/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

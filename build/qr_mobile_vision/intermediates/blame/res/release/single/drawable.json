@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/a978f7e17dd15e683e87f4a06df39190/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/a978f7e17dd15e683e87f4a06df39190/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/a978f7e17dd15e683e87f4a06df39190/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/a978f7e17dd15e683e87f4a06df39190/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/anhpta/Sites/app_customer/build/qr_mobile_vision/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/anhpta/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/877c11ce1320371e93037887161615be/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    }
+]
